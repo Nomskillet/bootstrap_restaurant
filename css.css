@@ -1,0 +1,89 @@
+body{
+    background-color: white;
+}
+
+
+.ps-light{
+    background-color: white;
+}
+
+
+.ps-grey{
+    background-color: grey;
+}
+
+.z15{
+    z-index: 10;
+}
+
+.z20{
+    z-index: 25;
+}
+
+.ps-gray{
+    background-color: black;
+    color: white;
+}
+
+.ps-white{
+    background-color: white;
+}
+
+
+.bodyMenu{
+    text-align: center;
+    background-image: url(https://c.neh.tw/thumb/f/720/comvecteezy225514.jpg);
+}
+
+
+.white{
+    color: white;
+}
+
+li{
+    list-style-type: none;
+}
+
+.center{
+    text-align: center;
+}
+
+main{
+    width: 100%;
+    height: 100vh;
+}
+
+
+.menuBox{
+    width: 30%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
+
+
+.black{
+    color: black;
+}
+
+.fontfamily{
+    font-family: cursive;
+}
+
+
+a{
+    color: black;
+
+
+}
+
+a:hover{
+    color: black;
+}
+
+.cursive{
+    font-family: cursive;
+}
